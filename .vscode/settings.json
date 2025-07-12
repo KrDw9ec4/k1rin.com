@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "./.vscode/schemas.json": "config/**/hugo.yaml",
+    }
+}
