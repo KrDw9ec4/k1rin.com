@@ -10,6 +10,7 @@ title: "Kirin H."
 author: "Kirin Huang"
 copyright: "Copyright © 2025, Kirin H."
 languageCode: "zh-cn"
+timeZone: "Asia/Shanghai"
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT: true
