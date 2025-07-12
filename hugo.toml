@@ -1,6 +1,6 @@
 # Base URL used when generating links to your pages
 # Set to the URL for your site
-baseURL = "https://example.com"
+baseURL = "https://krdw9ec4.github.io/k1rin.com/"
 
 # The name of this wonderful theme ;-).
 theme = 'hugo-bearblog'
@@ -59,3 +59,7 @@ ignoreErrors = ["error-disable-taxonomy"]
     lineNos = true
     lineNumbersInTable = false
     codeFences = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
