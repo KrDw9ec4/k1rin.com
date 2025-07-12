@@ -1,3 +1,6 @@
 [submodule "themes/hugo-bearblog"]
 	path = themes/hugo-bearblog
 	url = https://github.com/janraasch/hugo-bearblog.git
+[submodule "content/til"]
+	path = content/til
+	url = https://github.com/KrDw9ec4/til.git
