@@ -6,6 +6,11 @@ on:
   push:
     branches:
       - main
+  
+  # 由子模块仓库触发
+  repository_dispatch:
+    types:
+      - content-update
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
