@@ -59,9 +59,9 @@ params:
 # https://gohugo.io/configuration/markup/#highlight
 markup:
   highlight:
-    style: friendly
+    style: github
     lineNos: true
-    lineNumbersInTable: false
+    lineNumbersInTable: true
     codeFences: true
 
 caches:
