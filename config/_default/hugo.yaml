@@ -60,9 +60,6 @@ params:
 markup:
   highlight:
     style: github
-    lineNos: true
-    lineNumbersInTable: true
-    codeFences: true
 
 caches:
   images:
