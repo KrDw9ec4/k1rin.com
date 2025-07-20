@@ -3,4 +3,4 @@
 	url = https://github.com/janraasch/hugo-bearblog.git
 [submodule "content/til"]
 	path = content/til
-	url = https://github.com/KrDw9ec4/til.git
+	url = https://github.com/k1rinh/til.git
